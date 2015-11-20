@@ -1,0 +1,19 @@
+{
+  "m_uiClickFailCount":0,
+  "m_uiGetScore":0,
+  "m_uiCutScore":0,
+  "m_uiUsePropCount":0,
+  "m_uiWatchADCount":0,
+  "m_uiEnterGameCount":0,
+  "m_uiGameWinCount":0,
+  "m_uiGameFailCount":0,
+  "m_uiInAppMis":0,
+  "m_uiCutCoin":0,
+  "m_uiGetCoin":0,
+  "m_uiClickLogoCount":0,
+
+  "m_mPopTypeCount":[],
+
+  "m_uiIntoLevelCount":[
+  ]
+}

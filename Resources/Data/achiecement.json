@@ -1,0 +1,511 @@
+{
+    "achiecement": [
+        {
+            "id": 1,
+
+	    "title": "动物出击",
+            "description": "总共消除100个动物",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 2,
+
+	    "title": "动物暴动",
+            "description": "总共消除掉250个动物",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 3,
+
+	    "title": "本拉灯",
+            "description": "总共消除掉500个动物",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 4,
+
+	    "title": "2012",
+            "description": "总共消除掉1000个动物",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 5,
+
+	    "title": "高考状元",
+            "description": "总共得到10000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 6,
+
+	    "title": "蓝翔归来",
+            "description": "总共得到30000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "我是卡牌描述"
+        },
+	{
+            "id": 7,
+
+	    "title": "挖掘机天才",
+            "description": "总共得到80000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 8,
+
+	    "title": "霍格沃兹",
+            "description": "总共得到200000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 9,
+
+	    "title": "惨目忍睹",
+            "description": "总共扣掉1000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 10,
+
+	    "title": "脑残联盟",
+            "description": "总共扣掉50000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 11,
+
+	    "title": "大傻X",
+            "description": "总共扣掉100000分",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 12,
+
+	    "title": "爽爆了",
+            "description": "使用5次道具",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 13,
+
+	    "title": "正规外挂",
+            "description": "使用15次道具",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 14,
+
+	    "title": "德玛西亚!",
+            "description": "使用50次道具",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 15,
+
+	    "title": "肥皂剧",
+            "description": "观看5次广告",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 16,
+
+	    "title": "美剧迷",
+            "description": "观看15次广告",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 17,
+
+	    "title": "二人转",
+            "description": "观看50次广告",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 18,
+
+	    "title": "蝶恋花",
+            "description": "进入游戏10次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 19,
+
+	    "title": "依依不舍",
+            "description": "进入游戏25次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 20,
+
+	    "title": "全民女神",
+            "description": "进入游戏70次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 21,
+
+	    "title": "胜利之歌",
+            "description": "游戏胜利10次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 22,
+
+	    "title": "吊炸天",
+            "description": "游戏胜利30次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 23,
+
+	    "title": "钓鱼岛是中国的",
+            "description": "游戏胜利100次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 24,
+
+	    "title": "再接再厉",
+            "description": "游戏失败10次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 25,
+
+	    "title": "万夫莫敌",
+            "description": "游戏失败30次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 26,
+
+	    "title": "干了这碗热翔",
+            "description": "游戏失败100次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 27,
+
+	    "title": "游戏人生",
+            "description": "游戏共进行了5分钟",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 28,
+
+	    "title": "么么哒",
+            "description": "游戏共进行了30分钟",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 29,
+
+	    "title": "超越疼讯",
+            "description": "游戏共进行了100分钟",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 30,
+
+	    "title": "土豪现身",
+            "description": "总共消费1000金币",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 31,
+
+	    "title": "斗地主",
+            "description": "总共消费4000金币",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 32,
+
+	    "title": "ATM",
+            "description": "总共消费10000金币",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 33,
+
+	    "title": "程序猿",
+            "description": "总共获得5000金币",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 34,
+
+	    "title": "少林CEO",
+            "description": "总共获得10000金币",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 35,
+
+	    "title": "天朝官员",
+            "description": "总共获得20000金币",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 36,
+
+	    "title": "手残党",
+            "description": "点击错误20次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 37,
+
+	    "title": "手残之王",
+            "description": "无效点击60次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 38,
+
+	    "title": "手残至尊",
+            "description": "无效点击200次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        },
+	{
+            "id": 39,
+
+	    "title": "肥而不腻",
+            "description": "同一个关卡进入20次",
+
+            "iconSmallPath": "Image/1.png",
+            "iconOKPath": "Image/2.png",
+            "iconNOPath": "Image/3.png",
+            
+            "cardPath": "Image/Card.png",
+            "content": "..."
+        }
+    ]
+}

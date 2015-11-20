@@ -1,0 +1,67 @@
+{
+    "type":"2002",
+    "step": 50,
+    "task": [
+        {"type":1, "count":4},
+	{"type":2, "count":4}
+    ],
+
+    "levelId": "50001",
+    "jumpCoin": 400,
+    "giveExp": 40,
+    "giveCoin": 80,
+    "depict":"快来玩吧",
+    
+    "prologueInfo": [
+        {
+            "headPlace": true,
+            "headName": "德玛西亚之力",
+	    "headFile": "Level/1/demaxiya.png",
+            "words": [
+                "我是德玛西亚！我是用来测试剧情脚本管理器的。",
+                "然而我说几句话并没什么卵用。"
+            ]
+        },
+        {
+            "headPlace": true,
+            "headName": "哈利波特",
+	    "headFile": "Level/1/halibote.png",
+            "words": [
+                "呵呵，别怨天尤人了。"
+            ]
+        },
+	{
+            "headPlace": true,
+            "headName": "德玛西亚之力",
+	    "headFile": "Level/1/demaxiya.png",
+            "words": [
+                "我擦！哈兄，久仰大名，你的小说我都看过了。",
+		"话说有点饿了呢= ="
+            ]
+        },
+	{
+            "headPlace": true,
+            "headName": "？？？",
+	    "headFile": "",
+            "words": [
+                "。。。。。。。。。。。。",
+		"(对话结束)"
+            ]
+        }
+    ],
+    
+    "typeProbability": [
+        {
+            "type": 1,
+            "probability": 50
+        },
+        {
+            "type": 2,
+            "probability": 50
+        },
+        {
+            "type": 3,
+            "probability": 50
+        }
+    ]
+}

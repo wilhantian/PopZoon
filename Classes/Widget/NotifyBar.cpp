@@ -23,7 +23,7 @@ bool NotifyBar::init(std::string strBackgoundPath, std::string strTitle, std::st
 	}
 
 	//=================================================================
-	// ±³¾°
+	// èƒŒæ™¯
 	//=================================================================
 	Scale9Sprite* pBackgound = Scale9Sprite::create(strBackgoundPath);
 	pBackgound->setScale9Enabled(true);
@@ -31,18 +31,18 @@ bool NotifyBar::init(std::string strBackgoundPath, std::string strTitle, std::st
 	pBackgound->setContentSize(Size(450, 72));
 	addChild(pBackgound);
 
-	//ÖØÖÃ¸Ã½Úµã´óÐ¡
+	//é‡ç½®è¯¥èŠ‚ç‚¹å¤§å°
 	setContentSize(pBackgound->getContentSize());
 
 	//=================================================================
-	// Í¼±ê
+	// å›¾æ ‡
 	//=================================================================
 	Sprite* pIcon = Sprite::create(strIconPath);
 	pIcon->setPosition( pIcon->getContentSize().width / 2 + 20, pBackgound->getContentSize().height / 2);
 	pBackgound->addChild(pIcon);
 
 	//=================================================================
-	// ±êÌâ
+	// æ ‡é¢˜
 	//=================================================================
 	LabelTTF* pLabelTitle = LabelTTF::create(strTitle, "font", 28);
 	pLabelTitle->setAnchorPoint(Vec2(0, 1));
@@ -50,7 +50,7 @@ bool NotifyBar::init(std::string strBackgoundPath, std::string strTitle, std::st
 	pBackgound->addChild(pLabelTitle);
 
 	//=================================================================
-	// ÄÚÈÝ
+	// å†…å®¹
 	//=================================================================
 	LabelTTF* pLabelContent = LabelTTF::create(strContent, "font", 22);
 	pLabelContent->setAnchorPoint(Vec2(0, 1));

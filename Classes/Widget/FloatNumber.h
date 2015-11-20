@@ -15,7 +15,7 @@
 class FloatNumber : cocos2d::Node
 {
 public:
-	// ÏÔÊ¾Æ®×Ö¶¯»­
+	// æ˜¾ç¤ºé£˜å­—åŠ¨ç”»
 	static FloatNumber* show(cocos2d::Vec2& pos);
 	static FloatNumber* show(cocos2d::Vec2& pos, cocos2d::Vec2& toPos);
 protected:

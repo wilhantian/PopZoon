@@ -1,0 +1,18 @@
+{
+	"packageUrl" : "http://popzoon-skins.stor.sinaapp.com/",
+	"remoteManifestUrl" : "http://popzoon-skins.stor.sinaapp.com/project_dev.manifest",
+	"remoteVersionUrl" : "http://popzoon-skins.stor.sinaapp.com/version_dev.manifest",
+	"version" : "1.0.0",
+	"engineVersion" : "3.0 beta",
+
+	"assets" : {
+		"GonSiXinXi.zip" : {
+			"md5" : ".1..",
+			"compressed" : true
+		}
+		
+	},
+    
+    "searchPaths" : [
+    ]
+}
